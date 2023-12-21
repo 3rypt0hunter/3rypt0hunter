@@ -18,6 +18,6 @@ As a blockchain validator, my primary responsibilities include:
 
 Feel free to reach out if you have questions, suggestions, or if you want to collaborate. Here's how you can get in touch:
 
-- **Email:** [3rypt0hunter@gmail.com]
-- **Twitter:** [@3rypt0hunter]
-- **GitHub:** [github.com/3rypt0hunter]
+- **Email:** 3rypt0hunter@gmail.com
+- **Twitter:** @3rypt0hunt3r
+
